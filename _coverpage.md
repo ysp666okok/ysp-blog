@@ -8,4 +8,4 @@
 - 主攻JAVA
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[开始学习吧](/)
+[开始学习吧](./)
